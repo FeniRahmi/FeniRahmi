@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FeniRahmi
 - 👀 I’m interested in data science, data analytics, and machine learning
-- 🌱 I’m currently learning data science
+- 🌱 I’m currently work as a data analyst in PT Gistex Garmen Indonesia
 - 💞️ I’m looking to collaborate on data analytics and machine learning project
 - 📫 How to reach me https://www.linkedin.com/in/feni-rahmi/
 
